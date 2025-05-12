@@ -1,0 +1,1 @@
+`tests.ipynb` contains some work computing quantities in the VMEC++ `wout_xxx.nc` file. The `wout_GS_LH.nc` file is a `wout` file that was computed using `VMEC++` from the `input.GS_LH` file on my local laptop (macOS).
